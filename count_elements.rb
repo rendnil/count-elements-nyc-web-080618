@@ -13,4 +13,4 @@ def count_elements(array)
 end
  
 array = ['cat', 'dog', 'fish', 'fish']
-count_elements(array)
+print count_elements(array)

@@ -9,7 +9,7 @@ def count_elements(array)
       
     end  
   end
-  
+new_hash  
 end
  
 array = ['cat', 'dog', 'fish', 'fish']
